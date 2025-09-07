@@ -15,20 +15,19 @@ Yazılım dünyasında öğrenmeye ve üretmeye tutkuyla bağlı bir yazılım g
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
 </p>
 
-* **Diller:** C#, SQL, HTML, CSS, JavaScript
+* **Diller:** C#, SQL, Python, HTML, CSS
 * **Veritabanı Yönetimi:** SQL Server ile kapsamlı veritabanı tasarımı ve yönetimi.
 * **Odak Alanları:**
     * Masaüstü uygulamaları geliştirme (C# ile).
     * Oyun projeleri geliştirme (Örn: Yılan Oyunu, Taş-Kağıt-Makas).
     * Otomasyon çözümleri tasarlama.
-    * Web geliştirme temelleri (HTML, CSS, JavaScript).
+    * Web geliştirme temelleri (HTML, CSS).
 
 ---
 
@@ -43,7 +42,7 @@ Her yeni deneme benim için hem bir öğrenme süreci hem de bilgi birikimimi pa
 ### 🚀 Projelerimden Bazıları
 
 * [**Eşleştirme Oyunu**](https://github.com/mdmrtas/EsletirmeOyunu) - C# ile geliştirdiğim eğlenceli bir hafıza oyunu.
-* [**Taş Kağıt Makas**](https://github.com/mdmrtas/TasKagitMakas) - Klasik bir konsol oyunu uygulaması.
+* [**Taş Kağıt Makas**](https://github.com/mdmrtas/TasKagitMakasa) - Klasik bir konsol oyunu uygulaması.
 * [**Yılan Oyunu**](https://github.com/mdmrtas/YilanOyunu) - C# ile yeniden hayata geçirdiğim popüler retro oyun.
 * [**CSharpEgitimKampi**](https://github.com/mdmrtas/CSharpEgitimKampi) - C# öğrenme sürecimdeki çeşitli alıştırmalar ve küçük projeler.
 
